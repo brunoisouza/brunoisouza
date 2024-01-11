@@ -4,7 +4,7 @@ Programador sempre na busca de ampliar os conhecimentos.
 
 #### Viajante por Hobby!
 
-### Conhecimentos
+### Conhecimentos ⭐️
 
 - Clarion
 - PlSQL
