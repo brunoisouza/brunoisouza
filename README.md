@@ -1,12 +1,12 @@
 # Bruno Inácio
 
 ### Programador sempre na busca de ampliar os conhecimentos.
+### Viajante por Hobby! 🚀
 
-## Viajante por Hobby! 🚀
-
-## Ferramentas e Tecnologias
+## Conhecimentos:
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 ## Contatos:
 
