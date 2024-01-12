@@ -1,7 +1,12 @@
 # Bruno Inácio
 
-### Programador sempre na busca de ampliar os conhecimentos.
-### Viajante por Hobby! 🚀
+### Bem-vindo(a) ao meu playground de códigos! 
+### Sou um entusiasta do mundo tech, apaixonado por desafios e ansioso para transformar linhas de código em magia digital. 🚀 
+### Explorando o universo do desenvolvimento com um sorriso no rosto e muita cafeína no sangue. 
+
+### Vamos juntos criar coisas incríveis e hackear o futuro! 💻✨
+
+
 
 ## Conhecimentos:
 
